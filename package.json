@@ -11,5 +11,8 @@
   },
   "license": "MIT",
   "author": "Zulfikar Raditya Hernanta <hernantas@gmail.com>",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
