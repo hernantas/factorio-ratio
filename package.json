@@ -1,0 +1,15 @@
+{
+  "name": "factorio-ratio",
+  "description": "Factorio Neutral Ratio Calculator",
+  "homepage": "https://github.com/hernantas/factorio-ratio#readme",
+  "bugs": {
+    "url": "https://github.com/hernantas/factorio-ratio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernantas/factorio-ratio.git"
+  },
+  "license": "MIT",
+  "author": "Zulfikar Raditya Hernanta <hernantas@gmail.com>",
+  "type": "module"
+}
