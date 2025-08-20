@@ -13,6 +13,7 @@
   "author": "Zulfikar Raditya Hernanta <hernantas@gmail.com>",
   "type": "module",
   "devDependencies": {
+    "@types/node": "^24.3.0",
     "prettier": "^3.6.2",
     "typescript": "^5.9.2"
   },
